@@ -6,10 +6,10 @@ This code convert the matrix pressed keys in pure serial uart codes that you can
 - Support Blacklight with auto fade OFF/ON.
 - Support most common baud rates: 300, 1200, 2400, 4800, 9600, 19200, 38400, 57600, 115200
 
-Funcion keys:<br>
+Function keys:<br>
   - Chatkey turn blacklight ON/OFF ON=fade out in 2 seconds<br>
-  - Shift, Orange an Green keys works with all chars.<br>
-  - The Orange Z and X keys was replaced by ESC and TAB.<br>
+  - Shift, Orange an Green alt keys works with all chars.<br>
+  - The Orange Z and X keys (æ & œ) was replaced by ESC and TAB keys.<br>
   <br>
 Keyboard power ON options:<br>
  - key 1 change baud rate.<br>
