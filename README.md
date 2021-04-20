@@ -25,6 +25,10 @@ If you what, you can do a bypass on boost, and power it at 5V.<br>
 To compile use Mikroc in https://www.mikroe.com/mikroc-pic or get the hex files in the hex folder.
 <br><br>
 Please <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=ebay@vslinux.net&lc=PT&no_note=0&item_name=Open+Source+Software&cn=&curency_code=EUR&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted">donate</a> to support this and other projects
+<br>
+To do in future:
+- Add support to PS2 in C7 and A7 pins (the only avaliable)<br>
+
 Thank you!
 <br><br>
 Happy hacking!!!
