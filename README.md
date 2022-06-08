@@ -21,7 +21,7 @@ If you have the microsoft chip, you can replace it with one of this PIC's.<br>
 To flash use the pickit3 programmer, see the pinout in img folder.<br>
 
 The chatpad keyboard use 3.3v, and have a boost converter on the right side, to go at 3.8V.<br>
-If you remote it, you can do a bypass on boost, and power it at 5V.<br>
+If you remove it, you can do a bypass on boost, and power it at 5V.<br>
 To compile use Mikroc in https://www.mikroe.com/mikroc-pic or get the hex files in the hex folder.
 <br><br>
 To do in the future:
